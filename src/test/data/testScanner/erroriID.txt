@@ -1,0 +1,6 @@
+int
+nomeid
+	nome2
+  var
+  v1r
+ 

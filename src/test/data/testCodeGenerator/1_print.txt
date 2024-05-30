@@ -1,0 +1,2 @@
+int val = 10;
+print val;

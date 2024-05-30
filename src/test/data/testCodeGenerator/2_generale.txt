@@ -1,0 +1,4 @@
+int pippo = 5;
+float paperino = 0.9;
+paperino = pippo * paperino;
+print paperino;
